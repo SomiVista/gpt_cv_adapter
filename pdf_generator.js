@@ -31,7 +31,7 @@ const generatePDF = async () => {
 
 	const pdf = await page.pdf({
 		width: 1280 / 96 + 'in',
-		height: ((bodyHeight / 96) - 4) + 'in',
+		height: ((bodyHeight / 96) - 2) + 'in',
 	});
 
 	await browser.close();
