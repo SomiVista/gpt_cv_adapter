@@ -47,7 +47,7 @@ def get_cv_chain(openai_api_key):
     return LLMChain(
         llm=ChatOpenAI(
             openai_api_key=openai_api_key,
-            model="gpt-3.5-turbo-16k",
+            model="gpt-4o-mini",
         ),
         prompt=chat_prompt,
     )

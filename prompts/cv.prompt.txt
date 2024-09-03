@@ -1,4 +1,4 @@
-1. Manipulate the cv content and praphrase everything and write best Summary for describe. 
-2. The pronoun of the text must be in the first person and in the language of the resume owner.
-3. Keep all information specifically bullet points in each job experience, and don't remove any content just improve it.
-4. Write only maximoum 3 paragraph for cover latter.
+1. Reformat and rephrase the CV content to maximize effectiveness, ensuring that it adheres to high ATS (Applicant Tracking System) standards.
+2. Craft a compelling summary that highlights key strengths and aligns with the resume owner's experience, using first-person pronouns and the resume owner's preferred language.
+3. Enhance and refine the bullet points under each job experience to emphasize achievements and quantify results where possible.
+4. Write a concise, impactful cover letter in no more than three paragraphs, tailored to the specific job application.
