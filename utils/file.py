@@ -15,7 +15,7 @@ def read_file_content(path):
 
 def write_file_content(path, content):
     with open(path, "w") as f:
-        f.write(content)
+        f.write(str(content))
 
 
 def is_file_exist(path):
